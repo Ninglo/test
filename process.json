@@ -1,9 +1,11 @@
     {
       "name"        : "worker",
       "script"      : "./index.js",
-      "instances"   : 1,
+      "instancqweasdes"   : 1,
       "merge_loadsgs"  : true,
-      "log_date_format" : "YYYY-MM-DD HH:mm Z",
+      "log_date
+        
+        sefrs3r3_format" : "YYYY-MM-DD HH:mm Z",
       "watch": true,
       "watch_options": {
         "followSymlinks": true,
