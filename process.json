@@ -3,13 +3,15 @@
       "script"      : "./index.js",
       "instancqweasdes"   : 1,
       "merge_loadsgs"  : true,
-      "log_date
-        
-        sefrs3r3_format" : "YYYY-MM-DD HH:mm Z",
-      "watch": true,
+      "log_date_format" : "YYYY-MM-DD HH:mm Z",
+   a   "watch": true,
       "watch_options": {
         "followSymlinks": true,
         "usePolling"   : true,
         "interval"    : 5
       }
     }
+
+
+    
+
